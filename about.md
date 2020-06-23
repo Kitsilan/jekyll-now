@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+"bold"
+Researcher
 
 ### More Information
 
