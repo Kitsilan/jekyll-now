@@ -3,9 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-"bold"
+**This text will be bold**
+
 Researcher
 
+this is the {{page.title}}
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
